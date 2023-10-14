@@ -12,7 +12,7 @@ You can access a live demo of the application by visiting the following URL:
 
 [Calorie Counter Demo](https://haizom.github.io/calorie-counter/)
 
-![Calorie Counter](![colorie_counter](https://github.com/Haizom/calorie-counter/assets/49898633/94345871-da3f-4484-b247-b50b35e86c2f)
+![colorie_counter](https://github.com/Haizom/calorie-counter/assets/49898633/94345871-da3f-4484-b247-b50b35e86c2f)
 
 ## Installation
 
